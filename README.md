@@ -1,6 +1,6 @@
 # mytest
 
-> The First Vue Project！
+> The First Vue Project
 
 ## Build Setup
 
